@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/mizukoshi/20220506_012.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -115,12 +115,12 @@ p.note { display: none; }
 <!--ここ上は、ほぼそのまま使います！-->
 
 
-<!--QRコードの挿入例-->
+<!--QRコードの挿入例--><!--
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>-->
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 水越君をおくる2021/07/04 @ドリームかわち !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 水越君をおくる2021/07/04 !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
