@@ -144,6 +144,11 @@ p.note { display: none; }
 <a href="20220506_011.JPG" data-lightbox="abc"><img src="20220506_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220506_012.JPG" data-lightbox="abc"><img src="20220506_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220506_013.JPG" data-lightbox="abc"><img src="20220506_013.JPG" alt="サンプル画像" width="900" /></a>
+ 
+<a href="20220506_017.png" data-lightbox="abc"><img src="20220506_017.png" alt="サンプル画像" width="900" /></a>  
+<a href="20220507_001.JPG" data-lightbox="abc"><img src="20220507_001.JPG" alt="サンプル画像" width="900" /></a>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9di8Z6PxHh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--本体はここまで-->
 
