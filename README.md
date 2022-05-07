@@ -105,7 +105,7 @@ p.note { display: none; }
 
 <body>
 
-
+<p><a href="https://torokoid.github.io/home">Home</a>>水越君をおくる</p>
 
 <p class="note">
 モバイル端末をお使いの場合は、画面を横向きにすると
