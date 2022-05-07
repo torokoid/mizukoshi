@@ -122,6 +122,7 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 水越君をおくる2021/07/04 !!!</marquee></span></h1>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
  
